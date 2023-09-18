@@ -7,9 +7,17 @@ project "ImGui"
 
 	files
 	{
-	    "**.h",
-		"**.c",
-		"**.cpp"
+	    "imconfig.h",
+        "imgui.cpp",
+        "imgui.h",
+        "imgui_draw.cpp",
+        "imgui_internal.h",
+        "imgui_tables.cpp",
+        "imgui_widgets.cpp",
+        "imstb_rectpack.h",
+        "imstb_textedit.h",
+        "imstb_truetype.h",
+        "imgui_demo.cpp"
 	}
     
 	filter "system:windows"
