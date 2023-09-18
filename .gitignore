@@ -1,6 +1,11 @@
 ## OSX artifacts
 .DS_Store
 
+bin
+bin-int
+*.vcxproj
+*.vcxproj.filters
+
 ## Dear ImGui artifacts
 imgui.ini
 
